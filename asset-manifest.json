@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YouTube-2.0/static/css/main.7064deb2.css",
+    "main.js": "/YouTube-2.0/static/js/main.c18bfea8.js",
+    "index.html": "/YouTube-2.0/index.html",
+    "main.7064deb2.css.map": "/YouTube-2.0/static/css/main.7064deb2.css.map",
+    "main.c18bfea8.js.map": "/YouTube-2.0/static/js/main.c18bfea8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.c18bfea8.js"
+  ]
+}
